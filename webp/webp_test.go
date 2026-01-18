@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/pixiv/go-libwebp/test/util"
-	"github.com/pixiv/go-libwebp/webp"
+	"github.com/mortum5/go-libwebp/test/util"
+	"github.com/mortum5/go-libwebp/webp"
 )
 
 func TestMain(m *testing.M) {

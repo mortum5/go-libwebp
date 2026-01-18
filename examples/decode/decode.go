@@ -2,8 +2,8 @@
 package main
 
 import (
-	"github.com/pixiv/go-libwebp/test/util"
-	"github.com/pixiv/go-libwebp/webp"
+	"github.com/mortum5/go-libwebp/test/util"
+	"github.com/mortum5/go-libwebp/webp"
 )
 
 func main() {

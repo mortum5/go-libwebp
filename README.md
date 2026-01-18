@@ -1,8 +1,8 @@
 go-libwebp
 ==========
 
-[![ci](https://github.com/pixiv/go-libwebp/actions/workflows/ci.yml/badge.svg)](https://github.com/pixiv/go-libwebp/actions/workflows/ci.yml)
-[![GoDoc](https://godoc.org/github.com/pixiv/go-libwebp/webp?status.svg)](https://godoc.org/github.com/pixiv/go-libwebp/webp)
+[![ci](https://github.com/mortum5/go-libwebp/actions/workflows/ci.yml/badge.svg)](https://github.com/mortum5/go-libwebp/actions/workflows/ci.yml)
+[![GoDoc](https://godoc.org/github.com/mortum5/go-libwebp/webp?status.svg)](https://godoc.org/github.com/mortum5/go-libwebp/webp)
 
 A implementation of Go binding for [libwebp](https://developers.google.com/speed/webp/docs/api).
 
@@ -20,8 +20,8 @@ The [examples](./examples) directory contains example codes and images.
 package main
 
 import (
-	"github.com/pixiv/go-libwebp/test/util"
-	"github.com/pixiv/go-libwebp/webp"
+	"github.com/mortum5/go-libwebp/test/util"
+	"github.com/mortum5/go-libwebp/webp"
 )
 
 func main() {
@@ -52,8 +52,8 @@ import (
 	"bufio"
 	"image"
 
-	"github.com/pixiv/go-libwebp/test/util"
-	"github.com/pixiv/go-libwebp/webp"
+	"github.com/mortum5/go-libwebp/test/util"
+	"github.com/mortum5/go-libwebp/webp"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package util_test
 import (
 	"testing"
 
-	"github.com/pixiv/go-libwebp/test/util"
+	"github.com/mortum5/go-libwebp/test/util"
 )
 
 var PNGFiles = []string{
