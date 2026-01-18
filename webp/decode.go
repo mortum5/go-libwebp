@@ -1,6 +1,8 @@
 package webp
 
 /*
+#cgo linux LDFLAGS: -lwebp
+#cgo darwin pkg-config: libwebp
 #include <stdlib.h>
 #include <webp/decode.h>
 
